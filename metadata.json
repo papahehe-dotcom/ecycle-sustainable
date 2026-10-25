@@ -1,0 +1,6 @@
+{
+  "name": "E-Cycle — Sustainable E-Waste Management & Circular Tech",
+  "description": "Interactive MVP platform for sustainable appliance collection, engineer inspection, transparent valuation, solar-hub repair, and certified recycling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
